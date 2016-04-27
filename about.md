@@ -4,28 +4,24 @@ title: About me
 permalink: /about/
 ---
 
-My name is Jordan O'Connor and I'm an engineer.
-Graduated from Rochester Institute of Technology.
+Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
+Graduated from the University College Dublin (National University of Ireland). 
 
-I am Working for [Corning][corning].
-I mostly develop applications for test benches, but
-occasionally I get creative on the web.
-
-### What's This All About?
-
-Keeping a daily blog is one of the things that helps
-me stay on track as I tackle my plans and goals.
-
-I talk about work, family, finances, and whatever is going on
-at the moment in my head.
+I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
+Prefer to serve with Php and Ruby based stacks and also love to work 
+on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at
-[jordanmoconnor@gmail.com](gayanvirajith@gmail.com).
+Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
+[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
 
 
-[corning]: http://corning.com
-[github]: https://github.com/ohhhhhconnor
-[google]: https://plus.google.com/+jordanmoconnor
-[twitter]: https://twitter.com/ohhhhhhconnor
+[tf]: http://template-factory.nl
+[m]: http://mearch.com
+[pw]: http://processwire.com
+[pwf]: http://processwire.com/talk
+[jekyll]: http://jekyllrb.com
+[github]: https://github.com/gayanvirajith
+[google]: https://plus.google.com/+GayanVirajith
+[twitter]: https://twitter.com/gayanvirajith
