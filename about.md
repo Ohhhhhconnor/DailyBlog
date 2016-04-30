@@ -3,13 +3,15 @@ layout: page
 title: About me
 permalink: /about/
 ---
+### Who am I?
 
 My name is Jordan O'Connor and I'm an engineer.
-Graduated from Rochester Institute of Technology.
+I graduated from the Rochester Institute of Technology
+in 2014 with a degree in electrical engineering.
 
 I work for [Corning][corning].
-I mostly develop applications for test benches, but
-occasionally I get creative on the web.
+I mostly develop applications for test benches in their advanced optics
+department, but occasionally I get creative on the web.
 
 ### What's This All About?
 
