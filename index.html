@@ -18,12 +18,13 @@ layout: default
             </span> |
             {% endif %}
             <span class="post-date">
-            {{ post.date | date: "%b %-d, %Y" }} 
+            {{ post.date | date: "%b %-d, %Y" }}
             </span>
-          </p>          
-    			    			
+          </p>
+					<h5>{{ post.description}}</h5>
+
   				<p>
-	  				{{ post.excerpt }}	
+	  				{{ post.excerpt }}
   				</p>
   				<p>
   					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">

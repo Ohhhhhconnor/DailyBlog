@@ -1,0 +1,37 @@
+---
+layout: post
+title: Immediate
+date: '2016-04-24T08:52:00.000-04:00'
+author: Jordan O'Connor
+tags:
+modified_time: '2016-04-24T08:52:40.267-04:00'
+blogger_id: tag:blogger.com,1999:blog-1202201332823762457.post-5295611529424218758
+blogger_orig_url: http://dailyblog.jordanmoconnor.com/2016/04/immediate.html
+---
+
+What should I be working on right now? Is it enough for me to just be planning for the future when what is happening right now matters just as much?
+
+My biggest dilemma is, one day I would like to own a company, but I need more money right now to support my family. Doing quick money tasks don’t help my long term goals, and working on future ventures don’t make me any money right now.
+
+I think there are ways to minimize the effect, and be able to work on both things at once.
+
+I’ve always pushed towards leading a minimalist life, one that actually makes things more convenient and effective while getting things out of your way.
+
+I think that decreasing our lifestyle to ensure that we are living within our means is crucial. Our budget has little room for things that are outside of it, but yet every week we are eating out and not paying attention.
+
+What I would like to do, is be able to bring in $1000 extra a month. I’ve talked about this before on this blog, but I need to revisit it.
+
+I’ve got caught up in wanting to start my own business, which is a good thing and a bad thing. It’s a good thing because I have goals and something to work towards. But, everything I put towards it I take away from my immediate income.
+
+Making immediate money takes a lot of time and energy. It’s something you don’t necessarily want to do, but rather need to do. There are a few ways I could do this.
+
+I tried my hand at freelance writing, and it sucked. But, if I get the payout, it wasn’t so bad. But there are no guarantees. I’ve always thought about doing a PC repair and upkeep side business, but I hate the thought of spending all of my extra time on that. Also, that requires a lot of certifications.
+
+I have also thought about doing web development on the side, which would be cool but it is hard to do complete websites without any design knowledge. I would need to be able to do things like make color palates, design icons and follow a design pattern for every job. I also don’t really know how to connect to any web services, I just know how to make a standalone static site.
+
+I have thought about writing apps, but those have no guarantees of being successful.
+
+Anyhow, making extra money is difficult to do without structured employment. I’ve never entertained the thought of freelancing before now, and It’s something that requires a lot of work before making a good amount of money.
+
+This is something I’ll be thinking about over the next few weeks.
+Jordan
