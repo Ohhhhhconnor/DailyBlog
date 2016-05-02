@@ -31,7 +31,8 @@ I also want to make sure I am using my morning time as time to spend praying and
 
 Tomorrow isn't exactly anything special, but it's a new start, just like every morning. Here's to tomorrow.
 
-    Jordan
+ Jordan
+    
 [church]: http://riverrochester.com
 [hannah]: http://thegenuinelife.co
 [mine]: http://jordanmoconnor.com
