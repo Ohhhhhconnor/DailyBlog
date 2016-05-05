@@ -721,14 +721,17 @@ post-description {
 
   .column-1 {
     text-align: left;
+    display: inline;
     @include column(.3333);
   }
   .column-2 {
     text-align: center;
+    display: inline;
     @include column(.3333);
   }
   .column-3 {
     text-align: right;
+    display: inline;
     @include column(.3333);
   }
   .column-full {
