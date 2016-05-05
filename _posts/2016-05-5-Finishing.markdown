@@ -23,7 +23,7 @@ to be in place long before I start. I also need to be versed in types of sites,
 e-commerce for small businesses, media for churches, etc.
 
 Before all of that, I need to have a portfolio that shows off all of the things I can
-do. I would need to have some projects lined up that I can work on fro free so I can
+do. I would need to have some projects lined up that I can work on for free so I can
 get some practice. I actually do have a few lined up - I will be working on finishing the
 e-commerce site for my brother's coffee business, potentially (I haven't asked yet) working
 on a non-profit website for my mother-in-law, and also potentially working on another church
