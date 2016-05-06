@@ -45,8 +45,12 @@ that I want to accomplish. Then, in the evenings, I can focus on things that are
 low energy, but I can be at ease because I know I got the things done for the
 day that I wanted to.
 
-I would like to keep a technical blog that goes over the things that I learn
+----------
+
+In other news, I would like to keep a technical blog that goes over the things that I learn
 over time at work and on the side. It won't be daily, but it will help me
 document things so I can reference back to them.
+
+----------
 
 Jordan
