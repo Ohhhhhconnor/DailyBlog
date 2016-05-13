@@ -25,7 +25,7 @@ all come together to form a great life if you don't allow them to go to the
 wayside.
 
 It would be tragic for me to lose one of those things just because I want to
-grow in a business/monetary sense. Imagining if I let my relationship with
+grow in a business/monetary sense. Imagine if I let my relationship with
 Hannah go astray, or my friends or co-workers or my health. All of those things
 would be terrible. And for what? So I could try to grow faster myself?
 
