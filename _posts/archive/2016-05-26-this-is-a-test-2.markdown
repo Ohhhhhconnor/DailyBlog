@@ -1,7 +1,7 @@
 ---
 layout: post
-title: This Is a Test 2
-date: 2016-05-26 10:40:00
+title: This Is a Test
+date: 2016-05-26 10:30:00
 author: Jordan O'Connor
 categories:
 description: Testing out my IFTTT recipe
