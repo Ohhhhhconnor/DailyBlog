@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Focus
-date: 2016-05-13 06:30:00
+date: 2016-06-02 06:30:00
 author: Jordan O'Connor
 categories:
 description: Once you've decided, it's time to act
