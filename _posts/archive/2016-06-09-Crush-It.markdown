@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crush It
-date: 2016-06-08 06:30:00
+date: 2016-06-09 06:30:00
 author: Jordan O'Connor
 categories:
 description: Now that I have a focus, I can crush it.
@@ -44,7 +44,7 @@ no idea who they are. I don't think that is good, and I should be one of the
 first people that new employees meet because of how awesome I am (#yeahright).
 
 Seanwes is supposed to be putting out material next week about making your
-first $1000. Hopefully I can apply their techniques to my business!
+first $1000. Hopefully I can apply their technique to my business!
 
 Jordan
 
