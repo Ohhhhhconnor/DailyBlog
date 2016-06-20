@@ -49,4 +49,4 @@ I'm also really pumped that I am doing this. I'm glad I am just taking the plung
 
 Jordan
 
-[site]:[http://bckbne.co]
+[site]:http://bckbne.co
