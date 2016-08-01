@@ -1,7 +1,7 @@
 ---
 
 layout: post  
-title: At A crossroad
+title: At A Crossroad
 date: 2016-08-01 06:30:00  
 author: Jordan O'Connor  
 categories: thrown
@@ -55,6 +55,6 @@ for a slightly later time so that I can cool off before I shower.
 
 Staying motivated! Hannah helps me with that. She is tough on me and I
 appreciate it. Hopefully I can live up to my potential and start to bring in
-some income. 
+some income.
 
 Jordan @Thrown
