@@ -1,5 +1,4 @@
 ---
-
 layout: post  
 title: At A Crossroad
 date: 2016-08-01 06:30:00  
