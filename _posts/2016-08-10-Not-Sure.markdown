@@ -1,0 +1,74 @@
+---
+layout: post  
+title: Not Sure What I'm Supposed to be Working On
+date: 2016-08-10 06:30:00  
+author: Jordan O'Connor  
+categories: thrown
+description: Is what I am doing now directly contributing to my goal?
+---
+
+What even is my goal?
+
+That's an important question. If I can't answer that, I've got no business
+trying to adjust the course of my life. I can't do that without a vison or a
+goal in mind. It needs to be tangible, out of reach yet attainable over time.
+
+I think my ultimate goal is to be a lead developer on at least one (if not
+many) major open source project that is used by thousands of developers daily.
+That's the "if money didn't matter" dream.
+
+Since money actually matters an incredible amount, I also have other goals. I
+want my family to be completely debt free in 5 years or less. That's
+essentially 5 years of $2500 a month thrown at debt. As of right now, with my
+day job, I can contribute about $1600 a month towards my debt. It meets the
+minimum payments, but it's not going anywhere anytime soon.
+
+I also have a goal of working for myself, and eventually starting my own
+business. I have been working a corporate lifestyle for the past 3 years and it
+has been torture. Not from a cushy paycheck every two weeks perspective, but
+rather from a growth, value and lifestyle perspective. I want to grow faster,
+make money based on my actual worth and how hard I work for it, and I want to
+have the flexibility to work from anywhere and have work be much more integrated
+with my family.
+
+Having a side business is good practice, extra income is awesome
+and it is a good thing all around. But, what I can't decide is whether or not I
+want to create a product or service to sell, or if I want to do client work.
+
+You see, I need the money. That's the killer here. My day job income is enough
+to get us by, but if I don't figure out something soon, my goal of being debt
+free in 5 years or less will fade quickly.
+
+I know that client work would be the quickest way to make some cash, but it also
+is the least attractive to me. I don't know how to reach out to people and sell
+to them. I also don't really want to. So trying to do that the last month or so
+has been quite the experience.
+
+I think that ultimately, client work doesn't really contribute to my goal of
+being a lead developer on an open source project. It's not my cup of tea, and
+it's something that would suck the life out of my passion for web development.
+
+Am I complaining? Maybe. I can't really be picky about how I get my money, since
+I actually need it sooner rather than later.
+
+What I actually would like to do with my time is work on a project that I can
+eventually monetize. It works towards my goal of being a lead developer on a
+project, and it also works towards my goal of being debt free. Will it take
+longer? Maybe. Will it be more fulfilling? Definitely.
+
+So that's where I am at. I am deciding that projects are more important at this
+point. I have done a few other things in our lifestyle that will give us a
+money buffer, so that's not as crucial. But I still need to work hard and crank
+some projects out quickly.
+
+My first project is going to be a debt snowball calculator. I want to make it
+highly interactive and informative about how long it will take you to get debt
+free. I also want to gamify it somewhat. I can make it so it's your goal to get
+out of debt faster than what the debt snowball originally says you will.
+
+I need to think of some other services that I can build that other developers
+can use in their projects. That's how I can work towards my ultimate goal.
+
+This is only the beginning. 
+
+Jordan @Thrown
