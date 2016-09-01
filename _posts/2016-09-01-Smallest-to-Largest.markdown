@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Smallest to Largest
-date: 2016-09-11 6:00 am  
+date: 2016-09-01 6:00 am  
 author: Jordan O'Connor  
 categories: thrown
 description: Next big thing. Starting now!
