@@ -11,9 +11,9 @@ url: http://jordanmoconnor.com
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Jordan's Daily Blog
+  name: Jordan's Daily(ish) Blog
   # Little description about your site
-  description: A daily blog because it's better than not having a daily blog.
+  description: A daily(ish) blog because it's better than not having a daily(ish) blog.
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
