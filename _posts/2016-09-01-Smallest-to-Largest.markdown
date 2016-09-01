@@ -32,7 +32,7 @@ It will be accessible from anywhere, and it will keep you updated about your pro
 
 The tool will also be social. It will allow you to share, uninhibited, all of the debt that you have with other people that can hold you accountable and also support/cheer for you along the way.
 
-This aspect will be so helpful for many. I feel that many people hide all of their debt in shame. I don’t really think your friends care about what you financials look like, but rather that you are accomplishing the goals that you set out for yourself.
+This aspect will be so helpful for many. I feel that many people hide all of their debt in shame. I don’t really think your friends care about what your financials look like, but rather that you are accomplishing the goals that you set out for yourself.
 
 It will be rich in data, as well as being very user friendly. It needs to be simple enough to get the job done, but complete enough to provide all of the necessary information that a person needs to make daily financial decisions.
 
