@@ -3,7 +3,7 @@ layout: post
 title: At A Crossroad
 date: 2016-08-01 06:30:00  
 author: Jordan O'Connor  
-categories: thrown
+categories: 
 description: How can I make more money?
 ---
 

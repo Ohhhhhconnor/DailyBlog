@@ -40,6 +40,9 @@ harmony:
 
 # Conversion / Build settings
 markdown:    kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 # This is how you put pygments config in jekyll 2.0 instead of pygments: true
 highlighter: rouge
 

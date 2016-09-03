@@ -4,7 +4,7 @@ layout: post
 title: Back At It Again
 date: 2016-07-24 06:30:00  
 author: Jordan O'Connor  
-categories: thrown
+categories: 
 description: I need to keep writing, It's critical to my success.
 ---
 

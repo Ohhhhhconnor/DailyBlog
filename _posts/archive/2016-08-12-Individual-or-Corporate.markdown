@@ -3,7 +3,7 @@ layout: post
 title: Individual? Or Corporate?
 date: 2016-08-12 6:00 am  
 author: Jordan O'Connor  
-categories: thrown
+categories:
 description: Do I want to push my brand or my business on people?
 ---
 
@@ -39,6 +39,6 @@ the tool that I built? You know where to find me.
 
 Most of this will come over time, but clarity on where I am going to emphasize
 my efforts is important. The emphasis for me is on the tools, and documenting
-the process to get there. 
+the process to get there.
 
 Jordan @Thrown

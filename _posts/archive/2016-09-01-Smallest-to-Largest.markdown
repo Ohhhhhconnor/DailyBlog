@@ -23,8 +23,7 @@ There are so any people in the situation that I am describing above. They are in
 
 I want to make it so that it is fun to pay off debt. I want it to be like a game. People love games, especially when they have great real life ramifications. You should have a goal, and then you should smash it, and you should be rewarded for the hard work that you put into it.
 
-Functionality
--------------
+## Functionality
 
 The tool itself will be a web app, as well as a mobile app. It will allow people to log in, link their bank accounts, observe their current situation and create a plan of attack for paying it all off.
 
@@ -36,8 +35,7 @@ This aspect will be so helpful for many. I feel that many people hide all of the
 
 It will be rich in data, as well as being very user friendly. It needs to be simple enough to get the job done, but complete enough to provide all of the necessary information that a person needs to make daily financial decisions.
 
-Timeline
---------
+## Timeline
 
 I’m not exactly sure when I will complete this project. It will take several months, but I need to break down the pieces of work that need to happen to get this thing off the ground.
 
@@ -47,8 +45,7 @@ On the front end, it needs to have rich graphs and information specifically abou
 
 There also needs to be quite a bit of work done getting the tool documented, packaged and deployed. Before it is released to the public, it will need to have significant marketing associated with it. I don’t want to launch to crickets.
 
-This is a Journey
------------------
+## This is a Journey
 
 I don’t know how to do all of the things I just talked about above. I don’t know all of the code, the processes or solutions to most of the problems I will face. This will be a journey for me to show my progress as a web developer and build something that has meaning.
 

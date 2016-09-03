@@ -4,7 +4,7 @@ layout: post
 title: Updated Vision  
 date: 2016-07-6 06:30:00  
 author: Jordan O'Connor  
-categories: thrown
+categories: 
 description: Some things have changed, others have not.
 
 ---

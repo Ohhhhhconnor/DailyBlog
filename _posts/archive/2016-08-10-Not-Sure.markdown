@@ -3,7 +3,7 @@ layout: post
 title: Not Sure What I'm Supposed to be Working On
 date: 2016-08-10 06:30:00  
 author: Jordan O'Connor  
-categories: thrown
+categories: 
 description: Is what I am doing now directly contributing to my goal?
 ---
 
@@ -69,6 +69,6 @@ out of debt faster than what the debt snowball originally says you will.
 I need to think of some other services that I can build that other developers
 can use in their projects. That's how I can work towards my ultimate goal.
 
-This is only the beginning. 
+This is only the beginning.
 
 Jordan @Thrown

@@ -3,7 +3,7 @@ layout: post
 title: Better Place
 date: 2016-08-05 06:30:00  
 author: Jordan O'Connor  
-categories: thrown
+categories: 
 description: I'm in a better place now than I was a week ago.
 ---
 
