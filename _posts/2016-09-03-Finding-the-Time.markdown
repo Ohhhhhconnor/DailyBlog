@@ -3,12 +3,12 @@ layout: post
 title: Finding the Time
 date: 2016-09-03 10:00 am  
 author: Jordan O'Connor  
-categories: 
+categories:
 description: We all don't have enough time, you need to make the time.
 ---
 
 Last Wednesday, my wife and I had our first baby! A baby boy, who goes by the
-name of Finley James O'Connor. He's incredible. Such an honor and a blessing to
+name of Finley James O'Connor. He's incredible. It's such an honor and a blessing to
 be his father.
 
 As I am writing this, he is laying across my mid-section and I am trying not to
@@ -19,7 +19,7 @@ This past week has been rough, very little and not consistent sleep, changing
 diapers left and right, carrying him everywhere you go, making sure he is
 satisfied.
 
-Don't get my wrong, I wouldn't trade him for anything. He is literally perfect.
+Don't get me wrong, I wouldn't trade him for anything. He is literally perfect.
 I love him so much, and I can't wait to see the impact he will make on the world.
 But, when can I make the time to do the project that I am working on?
 
